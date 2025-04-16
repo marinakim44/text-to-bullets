@@ -12,5 +12,13 @@
   "dependencies": {
     "dompurify": "^3.2.5",
     "jsdom": "^26.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marinakim44/text-to-bullets.git"
+  },
+  "homepage": "https://github.com/marinakim44/text-to-bullets#readme",
+  "bugs": {
+    "url": "https://github.com/marinakim44/text-to-bullets/issues"
   }
 }
