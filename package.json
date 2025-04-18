@@ -2,6 +2,11 @@
   "name": "text-to-bullets",
   "version": "1.0.2",
   "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
